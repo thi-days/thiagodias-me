@@ -1,0 +1,93 @@
+{
+  "language": {
+    "code": "en-US",
+    "abbreviation": "en",
+    "countryCode": "US",
+    "name": "English",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "dateFormat": "MM/DD/YYYY"
+  },
+  "data": {
+    "firstName": "Thiago",
+    "lastName": "Dias",
+    "role": "Software Developer",
+    "location": "São Paulo, Brazil",
+    "email": "thiagodbrt@gmail.com",
+    "phone": "+55 11 9 9999-9999",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/thids/?locale=en_US",
+      "github": "https://github.com/thi-days"
+    },
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nisl euismod, aliquam nunc vita",
+    "education": [
+      {
+        "institution": "Universidade Paulista",
+        "course": "Computer Science",
+        "startDate": "2013-01-01",
+        "endDate": "2017-12-01",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    ],
+    "experience": [
+      {
+        "company": "Company 1",
+        "role": "Software Developer",
+        "startDate": "2018-01-01",
+        "endDate": "2019-12-01",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "company": "Company 2",
+        "role": "Software Developer",
+        "startDate": "2017-01-01",
+        "endDate": "2018-12-01",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "company": "Company 3",
+        "role": "Software Developer",
+        "startDate": "2016-01-01",
+        "endDate": "2017-12-01",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Expert"
+      },
+      {
+        "name": "React",
+        "level": "Expert"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "Advanced"
+      },
+      {
+        "name": "Spanish",
+        "level": "Beginner"
+      }
+    ],
+    "interests": ["Technology", "Music", "Movies", "Games"],
+    "certifications": [
+      {
+        "name": "Certification 1",
+        "institution": "Institution 1",
+        "date": "2019-01-01"
+      },
+      {
+        "name": "Certification 2",
+        "institution": "Institution 2",
+        "date": "2018-01-01"
+      }
+    ]
+  }
+}

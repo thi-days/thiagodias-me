@@ -1,0 +1,80 @@
+{
+  "language": {
+    "code": "pt-BR",
+    "abbreviation": "pt",
+    "countryCode": "BR",
+    "name": "Português",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "dateFormat": "DD/MM/YYYY"
+  },
+  "data": {
+    "role": "Desenvolvedor de Software",
+    "location": "São Paulo, Brasil",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/thids/?locale=pt_BR"
+    },
+    "education": [
+      {
+        "course": "Ciência da Computação",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    ],
+    "experience": [
+      {
+        "company": "Company 1",
+        "role": "Software Developer",
+        "startDate": "2018-01-01",
+        "endDate": "2019-12-01",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "company": "Company 2",
+        "role": "Software Developer",
+        "startDate": "2017-01-01",
+        "endDate": "2018-12-01",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "company": "Company 3",
+        "role": "Software Developer",
+        "startDate": "2016-01-01",
+        "endDate": "2017-12-01",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Expert"
+      },
+      {
+        "name": "React",
+        "level": "Expert"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Português",
+        "level": "Nativo"
+      },
+      {
+        "name": "Inglês",
+        "level": "Avançado"
+      }
+    ],
+    "interests": ["Tecnologia", "Música", "Filmes", "Jogos"],
+    "certifications": [
+      {
+        "name": "Certification 1",
+        "institution": "Institution 1",
+        "date": "2019-01-01"
+      },
+      {
+        "name": "Certification 2",
+        "institution": "Institution 2",
+        "date": "2018-01-01"
+      }
+    ]
+  }
+}
